@@ -1,5 +1,5 @@
 # hello-world
-Just another repository
+
 Hello guys
 
 I really like Köftespieß because it tastes very well.
